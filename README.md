@@ -1,5 +1,7 @@
 These code runs in a Python3 environment
 
+Before running the code, import the following packages：pandas/numpy/matplotlib/seaborn/itertools/time/scipy
+
 [1]SVT.py------Cai J F, Candès E J, Shen Z. A singular value thresholding algorithm for matrix completion[J]. SIAM Journal on optimization, 2010, 20(4): 1956-1982.
 
 [2]robust_pca_once.py------Candès E J, Li X, Ma Y, et al. Robust principal component analysis?[J]. Journal of the ACM (JACM), 2011, 58(3): 1-37.
